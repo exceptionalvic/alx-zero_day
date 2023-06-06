@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School"
 =======
 echo "ALX School is so cool!"
 >>>>>>> Hot fix
+=======
+echo "ALX School is so cool!"
+>>>>>>> 253f5577542a8a642c58925601522262cb50ccd1
